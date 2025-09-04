@@ -31,7 +31,7 @@ Infrastructure → 30+ websites and services currently in production
 
 #### 🏗️ **Enterprise solutions**
 - **RALA.fi** - I serve as lead UX/UI designer, website developer, and cloud architect for the Construction quality association's certification platform at https://www.rala.fi
-- **Celsa ERP system** - I developed the UX/UI and created prototypes for this custom ERP solution serving Europe's leading reinforcement manufacturer, managing projects across Nordic countries. Available at https://7-steelservice.fi 
+- **Celsa ERP system** - I developed the UX/UI and created prototypes for this custom ERP solution serving Europe's leading reinforcement manufacturer, managing projects across Nordic countries. https://7-steelservice.fi 
 
 #### 💡 **My inventions**
 - **Solinet-tulostaulu** - Tablet-based wireless scoring system with intuitive UI and embedded advertising revenue for venue owners. Officially used by both Finnish Floorball Federation and Finnish Tennis Association. More details at https://www.solinet.fi/fi/laitteet/tulostaulu
