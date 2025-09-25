@@ -14,7 +14,11 @@ if num1 == num2:
     print("Integers are the same")
 # Case 2: First integer is greater than second integer
 elif num1 > num2:
-    print("First integer is greater than second integer")
+    print("First integer is greater")
+# Case 3: Second integer is greater than first integer
+elif num2 > num1:
+    print("Second integer is greater")
+
 
 # Sum of the integers
 print("\nAdding integers together")
