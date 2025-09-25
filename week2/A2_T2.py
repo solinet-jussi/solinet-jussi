@@ -10,4 +10,8 @@ car_model = input("Enter car model: ")
 print(f"Car brand is \"{car_brand}\"", sep=" ", end=" ")
 print(f"and the model is \'{car_model}\'", sep="-", end=".\n")
 
+print("Car details: " + car_brand, car_model, sep=" | ")
+print('Car brand is "', car_brand, '"', sep='', end=' ')
+print("and the model is '", car_model, "'.", sep='')
+
 print("Program ending.")
