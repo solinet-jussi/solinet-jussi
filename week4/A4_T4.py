@@ -6,7 +6,7 @@ words = []
 word = None
 
 while word != "":
-    word = input("Enter a word (empty string stops the program): ")
+    word = input("Enter a word (empty stops): ")
     if word == "":
         break
     words.append(word)
