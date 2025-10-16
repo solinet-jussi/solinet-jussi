@@ -26,8 +26,8 @@ def analyse_names(filename):
 def main():
    print("Program starting.")
    print("This program analyses a list of names from a file.")
-   #filename = input("Insert filename to read: ")
-   filename = "A6_T4_D3.txt"
+   filename = input("Insert filename to read: ")
+   #filename = "A6_T4_D3.txt"
    print(f'Reading names from "{filename}".')
    print("Analysing names...")
 
