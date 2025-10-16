@@ -1,6 +1,6 @@
 # Course task: A6_T1 Read text file
 
-def analyse_names(filename):
+def analyseNames(filename):
    file = open("datasets/" + filename, "r")
    names = []
    while True:
@@ -31,7 +31,7 @@ def main():
    print(f'Reading names from "{filename}".')
    print("Analysing names...")
 
-   names = analyse_names(filename)
+   names = analyseNames(filename)
    print("Analysis complete.")
    print("#### REPORT BEGIN ####")
    print(f'Name count: {names["name_count"]}')
